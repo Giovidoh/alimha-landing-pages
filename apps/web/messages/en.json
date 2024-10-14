@@ -1,0 +1,613 @@
+{
+    "AlimhaPage": {
+        "Header": {
+            "Solutions": "Solutions",
+            "About us": "About us",
+            "Career": "Career",
+            "Contact": "Contact",
+            "Become partner": "Become partner"
+        },
+        "HeroSection": {
+            "tag": "Information Technology",
+            "heading": {
+                "first": "Welcome to",
+                "second": "Alimha and Company"
+            },
+            "supporting text": "Your trusted partner for technology solutions, we turn your ideas into innovative realities. Thanks to a combination of expertise, creativity and cutting-edge technology, we bring your visions to life, turning them into practical, high-performance solutions.",
+            "Become partner": "Become partner",
+            "Learn more": "Learn more",
+            "Customer reviews": "Customer reviews"
+        },
+        "OurServicesSection": {
+            "tag": "Our solutions",
+            "heading": {
+                "first": "<span>Expand</span> your",
+                "second": "<span>Business</span> with Alimha"
+            },
+            "card1": {
+                "title": "<span>Software</span> Development",
+                "description": "Tailor-made software solutions for your specific needs. We create web and mobile applications, analyze and audit your systems, and deploy IT solutions tailored to your requirements."
+            },
+            "card2": {
+                "title": "Payment Solutions Aggregator",
+                "description": "Connect to the best payment solutions. Centralize and optimize your financial transactions with our payment solutions aggregator, designed to simplify and secure your operations."
+            },
+            "card3": {
+                "title": "Mobile Money Deposit Application",
+                "description": "Secure, low-cost and instant Mobile Money deposits. Make sub-regional money deposits easy with our mobile application, designed to offer a seamless and secure user experience."
+            },
+            "Learn more": "Learn more"
+        },
+        "AboutUsSection": {
+            "tag": "About us",
+            "card1": {
+                "title": "Who are we?",
+                "body": "Alimha and Company is a dynamic technology company dedicated to turning ideas into concrete solutions. For over five years, we have been putting our expertise at the service of businesses, helping them to make the digital transition and offering them tailor-made technological solutions."
+            },
+            "card2": {
+                "title": "Our vision",
+                "body": "With a team of experts passionate about technological innovation, we strive to stay at the forefront of the latest advances, while offering robust, secure and scalable solutions. At Alimha and Company, we don't just meet your expectations, we strive to exceed them."
+            },
+            "card3": {
+                "title": "Our mission",
+                "body": "Combining innovation, creativity and technology to solve the complex challenges our customers face. Whether it's through our payment solutions aggregator, our mobile money transfer application or our software development services, we're here to help you achieve your goals."
+            },
+            "card4": {
+                "title": "Our values",
+                "body": "Our values are based on commitment, quality and customer satisfaction. We believe that every project is unique, which is why we take a personalized approach to each customer, working closely with them to understand their specific needs and develop solutions that meet them perfectly."
+            }
+        },
+        "WhyUsSection": {
+            "tag": "Why us",
+            "heading": "Our Global Reach"
+        },
+        "TheyTrustUsSection": {
+            "tag": "They trust us",
+            "heading": "Our partners & support",
+            "description": "We work with strategic partners in various sectors to enhance our service offering."
+        },
+        "ContactUsSection": {
+            "tag": "Contact",
+            "heading": "<span>Contact</span> us",
+            "description": "Let's discuss your project",
+            "address card": {
+                "title": "Contact",
+                "body": "Contact us if you need us. We offer you quality services",
+                "card1": {
+                    "title": "Contact us:",
+                    "body": "+221 33 844 30 81 / +221 77 889 21 74"
+                },
+                "card2": {
+                    "title": "Email:",
+                    "body": "infos@alimha.com"
+                },
+                "card3": {
+                    "title": "Address:",
+                    "body": "Mamelles, Dakar - Senegal"
+                }
+            },
+            "contact form": {
+                "name": "Name",
+                "email": "Email",
+                "your message": "Your message",
+                "send": "Send"
+            }
+        },
+        "Footer": {
+            "description": "Join the Technological Revolution Discover how Alimha and Company can transform the way you do of doing business. Contact us today!",
+            "col1": {
+                "title": "Alimha",
+                "link1": "About us",
+                "link2": "Why us",
+                "link3": "Our Vision",
+                "link4": "Our Mission"
+            },
+            "col2": {
+                "title": "Contact us",
+                "link1": "infos@alimha.com",
+                "link2": "+221 33 844 30 81 / +221 77 889 21 74",
+                "link3": "Mamelles, Dakar - Senegal"
+            },
+            "subscribe form": {
+                "email": "E-mail",
+                "subscribe": "Subscribe"
+            },
+            "Copyright": "All rights reserved | Copyright 2024"
+        },
+        "CareerPage": {
+            "message": "Please fill in this form if you would like to apply to Alimha.",
+            "career form": {
+                "field1": "Your CV",
+                "field1 error message": "Please upload your CV",
+                "field1 error message2": "File type must be PNG, JPG, JPEG or PDF",
+                "field2": "Cover letter",
+                "field2 error message": "Please upload your cover letter",
+                "field2 error message2": "File type must be PNG, JPG, JPEG or PDF",
+                "field3": "Job",
+                "field3 error message": "Please select the desired job.",
+                "jobs": {
+                    "job1": "Developer",
+                    "job2": "Network Engineer",
+                    "job3": "Accountant"
+                },
+                "field4": "Country",
+                "field4 error message": "Please select your country of residence.",
+                "countries": {
+                    "country1": "Guinea",
+                    "country2": "Senegal",
+                    "country3": "Togo"
+                },
+                "send": "Send",
+                "captcha error message": "Please fill out captcha field!",
+                "success message": "Your message has been sent successfully. Thank you for your interest!",
+                "error message": "An error occurred while sending your message. Please try again."
+            }
+        },
+        "BecomePartnerPage": {
+            "message": "Please fill in this form if you would like to become an Alimha partner.",
+            "become partner form": {
+                "field1": "Lastname",
+                "field1 error message": "Please enter your name.",
+                "field2": "Firstname",
+                "field2 error message": "Please enter your first name(s).",
+                "field3": "Email",
+                "field3 error message": "Please enter your email address.",
+                "field4": "Description",
+                "send": "Send",
+                "success message": "Your message has been sent successfully. Thank you for your interest!",
+                "error message": "An error occurred while sending your message. Please try again."
+            }
+        }
+    },
+    "AlpayPage": {
+        "Header": {
+            "Home": "Home",
+            "Our services": "Our services",
+            "Advantages": "Advantages",
+            "How it works": "How it works",
+            "Why Alpay": "Why Alpay",
+            "Contact us": "Contact us"
+        },
+        "HeroSection": {
+            "main heading": {
+                "first": "Payment Solutions",
+                "second": "Aggregator"
+            },
+            "subheading": "Simplify and secure your financial transactions.",
+            "supporting text": "Easy Integration, Efficient Management. Optimize your financial operations with our payment aggregator, designed to centralize and automate all your transactions seamlessly.",
+            "Test the solution": "Test the solution"
+        },
+        "OurServicesSection": {
+            "tag": "Our services",
+            "heading": "What We Offer",
+            "card1": {
+                "title": "Consolidation of Payment Methods",
+                "body": "Combine various payment methods in a single interface. Accept credit cards, mobile payments, bank transfers and more, while keeping an overview of your financial flows."
+            },
+            "card2": {
+                "title": "Universal Integration",
+                "body": "Our solution integrates easily with your existing systems, whether it's your website, mobile application or management software. Benefit from rapid configuration with no downtime."
+            },
+            "card3": {
+                "title": "Advanced Security",
+                "body": "Protect your transactions with state-of-the-art security standards, including data encryption and PCI-DSS compliance. Your financial information and that of your customers is always safe."
+            },
+            "Learn more": "Learn more"
+        },
+        "AdvantagesSection": {
+            "tag": "Advantages",
+            "heading": "The Benefits of Our Aggregator",
+            "subheading": "Our Aggregator offers a number of advantages, including:",
+            "card1": {
+                "title": "Lower Transaction Costs",
+                "body": "Minimize your costs with competitive rates and centralized management of processing fees."
+            },
+            "card2": {
+                "title": "Detailed Reports and Analyses",
+                "body": "Minimize your costs with competitive rates and centralized management of processing fees."
+            },
+            "card3": {
+                "title": "24/7 support",
+                "body": "Minimize your costs with competitive rates and centralized management of processing fees."
+            }
+        },
+        "HowItWorksSection": {
+            "tag": "Operation",
+            "heading": "How It Works",
+            "card1": {
+                "title": "Easy registration",
+                "body": "Create your account in just a few minutes and start configuring your payment options according to your specific needs."
+            },
+            "card2": {
+                "title": "Quick Setup",
+                "body": "Use our guides and support to easily integrate the aggregator into your existing systems. No complex development required."
+            },
+            "card3": {
+                "title": "Start Your Transactions",
+                "body": "Start accepting payments smoothly and securely, and view your transactions in real time from your dashboard."
+            }
+        },
+        "WhyUsSection": {
+            "tag": "About us",
+            "heading": "Why Choose Our Aggregator",
+            "subheading": "You must choose Alpay for:",
+            "card1": {
+                "title": "Flexibility & Compatibility",
+                "body": "Our aggregator adapts to all payment environments, giving you unrivalled flexibility to manage your transactions."
+            },
+            "card2": {
+                "title": "Continuous Innovation",
+                "body": "We update our technologies to meet evolving market requirements, always offering you the best solutions available."
+            },
+            "card3": {
+                "title": "Customer Satisfaction Guarantee",
+                "body": "Our customer-focused approach and responsive support ensure a high level of satisfaction."
+            }
+        },
+        "ApplicationSection": {
+            "tag": "Application",
+            "heading": "Available Payment Methods"
+        },
+        "ContactUsSection": {
+            "tag": "Contact us",
+            "heading": "Transform Your Payment Management",
+            "contact form": {
+                "name": "Name",
+                "email": "Email",
+                "subject": "Subject",
+                "your message": "Your message",
+                "send": "Send"
+            },
+            "card1": {
+                "title": "Contact us:",
+                "body": "+123 456 7890"
+            },
+            "card2": {
+                "title": "Email:",
+                "body": "info@alpay.com"
+            },
+            "card3": {
+                "title": "Address:",
+                "body": "Medina Rue 4, Dakar-Senegal"
+            }
+        },
+        "Footer": {
+            "description": "Join the Technology Revolution Discover how Alimha and Company can transform the way you do business. Contact us today!",
+            "col1": {
+                "title": "Alpay",
+                "link1": "Home",
+                "link2": "Our services",
+                "link3": "Advantages",
+                "link4": "How it works",
+                "link5": "Why Alpay"
+            },
+            "col2": {
+                "title": "Resources",
+                "link1": "Terms of use",
+                "link2": "Privacy policy",
+                "link3": "Legal notice"
+            },
+            "col3": {
+                "title": "Contact us",
+                "email": "infos@alpay.com",
+                "number": "+221 78 589 87 85",
+                "address": "Medina, rue 4 Dakar, Senegal"
+            },
+            "copyright": "All rights reserved! Copyright 2024"
+        }
+    },
+    "SendmoPage": {
+        "Header": {
+            "Features": "Features",
+            "Advantages": "Advantages",
+            "Download": "Download",
+            "Contact": "Contact",
+            "FAQ": "FAQ",
+            "Download App": "Download App"
+        },
+        "HeroSection": {
+            "tag": "Money transfer application",
+            "main heading": {
+                "first": "Simplify Your",
+                "second": "Money Deposits"
+            },
+            "supporting text": "Manage your transactions intuitively and securely with SendMo. Make quick deposits in just a few clicks, wherever you are."
+        },
+        "WelcomeToSendmoSection": {
+            "tag": "Welcome to SendMo",
+            "heading": "The Innovative Solution for Your Mobile Money Deposits",
+            "description": "Transfer Easily, Deposit Quickly, Securely. With SendMo, simplify your financial transactions and connect sub-regionally with confidence.",
+            "ctaText": "Download App"
+        },
+        "FeaturesSection": {
+            "tag": "Features",
+            "heading": {
+                "first": "The Innovative Solution for",
+                "second": "Your Mobile Money Deposits"
+            },
+            "card1": {
+                "title": "Instant Deposits",
+                "description": "Send money in seconds. Enjoy the speed and simplicity of our instant deposits, tailored to your everyday needs."
+            },
+            "card2": {
+                "title": "Sub-regional transfers",
+                "description": "Borderless connectivity, transfer money between Senegal, Guinea, Togo, Central African Republic, Djibouti and Comoros. SendMo offers you unrivalled sub-regional coverage."
+            },
+            "card3": {
+                "title": "Real-time transaction tracking",
+                "description": "Stay in control of your finances, receive instant notifications and access a detailed history of all your transactions directly from the application."
+            },
+            "card4": {
+                "title": "24/7 customer support",
+                "description": "Anytime Support, Our dedicated team is always ready to help, ensuring a seamless user experience."
+            }
+        },
+        "AdvantagesSection": {
+            "tag": "Advantages",
+            "heading": {
+                "first": "All the benefits of",
+                "second": "Sendmo"
+            },
+            "card1": {
+                "title": "Ease of use",
+                "description": "Intuitive, user-friendly interface. SendMo is designed to be easy to use, even for technology novices."
+            },
+            "card2": {
+                "title": "Time saving",
+                "description": "Fast Deposits and Transfers. Reduce delays and administrative hassles with our fast, efficient system."
+            },
+            "card3": {
+                "title": "Advanced Security",
+                "description": "Your Money, Our Priority. Rigorous security protocols ensure that your transactions are always protected."
+            },
+            "card4": {
+                "title": "Multi-currency flexibility",
+                "description": "Manage your finances with ease. Effortlessly accept and transfer funds in a variety of local currencies."
+            },
+            "Download App": "Download App"
+        },
+        "PaymentMethodsSection": {
+            "tag": "Payment methods",
+            "heading": "Countries where you can send money",
+            "subheading": "Countries where you can send money via Sendmo with available mobile money operators",
+            "Senegal": "Senegal",
+            "Togo": "Togo",
+            "Guinea": "Guinea",
+            "Djibouti": "Djibouti",
+            "central african republic": "CAR"
+        },
+        "DownloadAppSection": {
+            "tag": "Download",
+            "heading": {
+                "first": "Download SendMo",
+                "second": "Now"
+            },
+            "subheading": "Available on Android and iOS",
+            "description": "Join thousands of satisfied users and download SendMo today for an unparalleled mobile money deposit experience."
+        },
+        "ContactSection": {
+            "tag": "Contact",
+            "heading": "ready to start?",
+            "subheading": {
+                "first": "For questions or assistance,",
+                "second": "contact us."
+            },
+            "Contact us": "Contact us"
+        },
+        "FaqSection": {
+            "tag": "FAQ",
+            "heading": "Do you have any questions?",
+            "subheading": "Some useful questions about using Sendmo.",
+            "Accordion": {
+                "question1": {
+                    "title": "How do I open a Sendmo account?",
+                    "body": "Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas."
+                },
+                "question2": {
+                    "title": "Is Sendmo easy to understand and use?",
+                    "body": "Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas."
+                },
+                "question3": {
+                    "title": "Do Sendmo users have access to a customer support service?",
+                    "body": "Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas."
+                },
+                "question4": {
+                    "title": "How to get started with sendmo?",
+                    "body": "Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas."
+                },
+                "question5": {
+                    "title": "How to get started with sendmo?",
+                    "body": "Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas.Lorem ipsum dolor sit amet consectetur. Erat turpis id egestas facilisi. Egestas justo tellus pharetra egestas."
+                }
+            }
+        },
+        "Footer": {
+            "heading": {
+                "first": "Simplify your money transfers",
+                "second": "at any time"
+            },
+            "E-mail": "E-mail",
+            "Subscribe": "Subscribe",
+            "col1": {
+                "title": "Usely links",
+                "link1": "Features",
+                "link2": "Advantages",
+                "link3": "Download",
+                "link4": "Contact",
+                "link5": "FAQ"
+            },
+            "col2": {
+                "title": "Resources",
+                "link1": "Terms of use",
+                "link2": "Privacy policy",
+                "link3": "Legal notice"
+            },
+            "col3": {
+                "title": "App"
+            },
+            "Copyright": "All rights reserved! Copyright 2024"
+        }
+    },
+    "SoftwareDevelopmentPage": {
+        "Header": {
+            "link1": "Home",
+            "link2": "Services",
+            "link3": "Our achievements",
+            "link4": "Team",
+            "link5": "Contact",
+            "link6": "FAQ",
+            "button text": "Contact us"
+        },
+        "HeroSection": {
+            "tag": "Development",
+            "heading": "<span>Web</span> and <span>Mobile</span> Application <br></br> Design and Development",
+            "subheading": "Create high-performance, intuitive applications for all platforms. Transform your ideas into robust digital solutions.",
+            "cta text": "Contact us"
+        },
+        "ServicesSection": {
+            "tag": "Our services",
+            "heading": "Discover our <span>custom <br></br> development</span> services",
+            "subheading": "Create high-performance, intuitive applications for all platforms. <br></br> Transform your ideas into robust digital solutions",
+            "card1": {
+                "title": "Web and Mobile Application Design",
+                "body": "Tailor-made solutions for your specific needs. We create web and mobile applications that combine aesthetics and performance to deliver an exceptional user experience."
+            },
+            "card2": {
+                "title": " System Audit IT",
+                "body": "Secure and improve your infrastructures. Our detailed audits help you understand the strengths and weaknesses of your systems, providing you with precise recommendations."
+            },
+            "card3": {
+                "title": "System Analysis",
+                "body": "Optimize your internal processes. We carry out a complete analysis of your IT systems to identify inefficiencies and propose solutions for improvement."
+            },
+            "card4": {
+                "title": "IT Solutions Deployment",
+                "body": "Smooth, efficient implementation. We support you in the deployment of your IT solutions, ensuring a smooth transition and constant technical support."
+            }
+        },
+        "AboutUsSection": {
+            "tag": "About us",
+            "heading": "Why <span>Choose</span> Alimha <br></br> and Company?",
+            "card1": {
+                "title": "Expertise and experience",
+                "body": "Years of successful software development. Our team of experts has extensive experience in developing complex and innovative software solutions."
+            },
+            "card2": {
+                "title": "Customized approach",
+                "body": "Solutions tailored to your needs. We work closely with you to understand your specific needs and develop solutions that meet your exact requirements."
+            },
+            "card3": {
+                "title": "Cutting-edge technologies",
+                "body": "Innovating with the latest technologies. We use the most advanced technologies to offer you high-performance, long-lasting solutions."
+            },
+            "card4": {
+                "title": "Support and Maintenance",
+                "body": "Ongoing support. We provide comprehensive technical support and proactive maintenance to keep your solutions running smoothly over the long term."
+            },
+            "button text": "Contact us"
+        },
+        "ProjectsSection": {
+            "tag": "Projects",
+            "heading": "Discover Our <br></br> <span>Successful Projects</span>.",
+            "subheading": "Take a look at our portfolio to see how we've helped other companies succeed with our tailor-made software solutions."
+        },
+        "YourProjectSection": {
+            "heading": "Let's talk about your project",
+            "subheading": "Contact us today to bring your innovative ideas and projects to life.",
+            "cta text": "Contact us"
+        },
+        "MeetExpertsSection": {
+            "tag": "Meet our experts",
+            "heading": "Our <span>excellence</span> our <br></br> customers' trust",
+            "subheading": "Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor.",
+            "cta text": "Contact us",
+            "card1": {
+                "name": "Ulrich <span>AMAH</span>",
+                "role": "CEO & Founder"
+            },
+            "card2": {
+                "name": "Jeanne <span>MACOS</span>",
+                "role": "General Counsel"
+            },
+            "card3": {
+                "name": "Tito <span>GBEDZEHA</span>",
+                "role": "IT Director"
+            }
+        },
+        "ContactUsSection": {
+            "tag": "Contact us",
+            "heading": "Let's turn your <span>ideas</span> into <br></br> <span>Innovative projects</span>",
+            "subheading": "Do you have a project in mind? Contact us for a free consultation!",
+            "contact form": {
+                "name": "Name",
+                "email": "Your e-mail",
+                "subject": "Subject",
+                "message": "Your message",
+                "send": "Send"
+            },
+            "card1": {
+                "title": "Contact us:",
+                "body": "+123 456 7890"
+            },
+            "card2": {
+                "title": "Email:",
+                "body": "infos@alimha.com"
+            },
+            "card3": {
+                "title": "Address:",
+                "body": "Mamelles, Dakar - Senegal"
+            }
+        },
+        "FaqSection": {
+            "tag": "FAQS",
+            "heading": "Do you have any <span>questions</span>?",
+            "subheading": "Check out our FAQs for quick answers to your most frequently asked questions.",
+            "accordion": {
+                "item1": {
+                    "question": "Lorem ipsum dolor sit amet consectetur.",
+                    "answer": "Lorem ipsum dolor sit amet consectetur."
+                },
+                "item2": {
+                    "question": "Lorem ipsum dolor sit amet consectetur.",
+                    "answer": "Lorem ipsum dolor sit amet consectetur."
+                },
+                "item3": {
+                    "question": "Lorem ipsum dolor sit amet consectetur.",
+                    "answer": "Lorem ipsum dolor sit amet consectetur."
+                },
+                "item4": {
+                    "question": "Lorem ipsum dolor sit amet consectetur.",
+                    "answer": "Lorem ipsum dolor sit amet consectetur."
+                }
+            }
+        },
+        "Footer": {
+            "description": "Alimha and Company: your partner for innovative, customized software solutions.",
+            "subscribe form": {
+                "email": "E-mail",
+                "subscribe": "Subscribe"
+            },
+            "col1": {
+                "title": "Useful links",
+                "link1": "Home",
+                "link2": "Services",
+                "link3": "Our achievements",
+                "link4": "Team",
+                "link5": "Contact",
+                "link6": "FAQ"
+            },
+            "col2": {
+                "title": "Resources",
+                "link1": "Terms of use",
+                "link2": "Privacy policy",
+                "link3": "Legal notice"
+            },
+            "copyright": "All rights reserved! Copyright 2024"
+        },
+        "MaintenancePage": {
+            "heading": "Sorry for the inconvenience! We're undergoing maintenance. 🛠️",
+            "message": "Please revisit later...",
+            "redirect link": "Back to Alimha"
+        }
+    }
+}
